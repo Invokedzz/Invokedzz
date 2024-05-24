@@ -2,7 +2,15 @@
 
 <h3>- 🔭 Tecnologias que utilizo:</h3>
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+<p>
+  HTML5, CSS3, JavaScript, Node.js
+</p>
+
+<h3>- 🌱 Estou aprendendo...</h3>
+
+<p>
+  JavaScript, React.js e Java.
+</p>
 
 
 <!--
