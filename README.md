@@ -9,7 +9,7 @@
 <h3>- 🌱 Estou aprendendo...</h3>
 
 <p>
-  JavaScript, React.js e Java.
+  JavaScript, Angular e Java.
 </p>
 
 
