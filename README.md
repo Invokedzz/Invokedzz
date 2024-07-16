@@ -1,4 +1,4 @@
-### Olá! Eu sou o Samuel.
+
 
 <h3>- 🔭 Tecnologias que utilizo:</h3>
 
