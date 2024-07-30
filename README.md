@@ -1,15 +1,15 @@
 
 
-<h3>- 🔭 Tecnologias que utilizo:</h3>
+<h4>- 🔭 Technologies:</h4>
 
 <p>
-  HTML5, CSS3, JavaScript, Node.js
+  HTML5, CSS3, JavaScript, Node.js, Express.
 </p>
 
-<h3>- 🌱 Estou aprendendo...</h3>
+<h4>- 🌱 Currently, I'm learning:</h4>
 
 <p>
-  TypeScript, React.js, MySql, Node.js.
+  TypeScript, React.js, MySQL, Node.js.
 </p>
 
 
