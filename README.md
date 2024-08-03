@@ -9,7 +9,7 @@
 <h4>- 🌱 Currently, I'm learning:</h4>
 
 <p>
-  TypeScript, React.js, MySQL.
+  TypeScript, MySQL.
 </p>
 
 <h4>- 💬 Nowadays, I use some books to learn programming languages and frameworks.</h4>
