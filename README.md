@@ -1,7 +1,5 @@
 <h2 align="left">Hi! My name is Samuel.</h2>
 
-<h2 align="left">Hi! My name is Samuel</h2>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="12" />
