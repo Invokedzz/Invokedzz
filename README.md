@@ -6,6 +6,8 @@
 
 ###
 
+<br>
+
 <h2 align="left">About me:</h2>
 
 ###
@@ -13,6 +15,8 @@
 <h3 align="center">📚 I'm currently learning Java and Postman;<br>🎯 Goals: Currently, I'm looking for a job as a backend developer;<br>🎲 Fun fact: I love coffee, and teamwork!</h3>
 
 ###
+
+<br>
 
 <h2 align="left">I'm working with:</h2>
 
