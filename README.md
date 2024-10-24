@@ -14,6 +14,8 @@
 
 ###
 
+<br<
+
 <h3 align="center">📚 I'm currently learning Java and Postman;<br>🎯 Goals: Currently, I'm looking for a job as a backend developer;<br>🎲 Fun fact: I love coffee, and teamwork!</h3>
 
 ###
@@ -45,7 +47,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
+  <img height="300" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"  />
 </div>
 
 ###
