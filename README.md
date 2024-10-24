@@ -2,7 +2,9 @@
 
 ###
 
-<h4 align="left">My name is Samuel, and I'm a backend developer</h4>
+<br>
+
+<h3 align="left">My name is Samuel, and I'm a backend developer</h3>
 
 ###
 
