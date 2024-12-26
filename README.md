@@ -1,28 +1,26 @@
-<h2 align="left">Greetings, friend!</h2>
+<h3 align="left">Greetings, friend!</h3>
 
 ###
 
 <br>
 
-<h3 align="left">My name is Samuel, and I'm a backend developer</h3>
+<h4 align="left">My name is Samuel, and I'm a backend developer</h4>
 
 ###
 
 <br>
 
-<h2 align="left">About me:</h2>
+<h3 align="left">About me:</h3>
 
 ###
 
 <br>
 
-<h3 align="center">📚 I'm currently learning Java, Postman and Zsh;<br><br>🎯 Goals: Currently, I'm looking for a job as a backend developer;<br><br>🎲 Fun fact: I love coffee, and RPGs!</h3>
+<h4 align="center">📚 I'm currently learning Java, Postman and Zsh;<br><br>🎯 Goals: Currently, I'm looking for a job as a backend developer;<br><br>🎲 Fun fact: I love coffee, and RPGs!</h4>
 
 ###
 
-<br>
-
-<h2 align="left">I'm working with:</h2>
+<h3 align="left">I'm working with:</h3>
 
 ###
 
