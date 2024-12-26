@@ -16,7 +16,7 @@
 
 <br>
 
-<h3 align="center">📚 I'm currently learning Java and Postman;<br>🎯 Goals: Currently, I'm looking for a job as a backend developer;<br>🎲 Fun fact: I love coffee, and teamwork!</h3>
+<h3 align="center">📚 I'm currently learning Java and Postman;<br>🎯 Goals: Currently, I'm looking for a job as a backend developer;<br>🎲 Fun fact: I love coffee, and RPGs!</h3>
 
 ###
 
