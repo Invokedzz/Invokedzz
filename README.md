@@ -9,6 +9,8 @@
 
 - 🏙 Connect with me: <a href="https://www.linkedin.com/in/samuel-n%C3%B3brega/">Linkedin</a>
 
+- 🏆 My Leetcode: <a href="https://leetcode.com/u/Invokedzz/">here</a>
+
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=invokedzz&show_icons=true&locale=en&layout=compact" alt="invokedzz" /></p>
