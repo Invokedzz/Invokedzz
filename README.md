@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a RPG game!](https://github.com/Invokedzz/rpg_game)
 
-- 🌱 I’m currently learning **Java, Postman and Spring**
+- 🌱 I’m currently learning **Java and Spring**
 
 - 📫 How to reach me **samuelnobrega902@gmail.com**
 
