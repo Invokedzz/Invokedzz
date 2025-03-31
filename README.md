@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">I'm a backend developer</h3>
 
-- 🔭 I’m currently working on [a RPG game!](https://github.com/Invokedzz/rpg_game)
-
 - 🌱 I’m currently learning **Java and Spring**
 
 - 📫 How to reach me **samuelnobrega902@gmail.com**
