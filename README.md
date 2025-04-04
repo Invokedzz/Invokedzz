@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samuel</h1>
 <h3 align="center">I'm a backend developer</h3>
 
-- 🌱 I’m currently learning **Java and Spring**
-
 - 📫 How to reach me **samuelnobrega902@gmail.com**
 
 - 🏙 Connect with me: <a href="https://www.linkedin.com/in/samuel-n%C3%B3brega/">Linkedin</a>
